@@ -1,5 +1,5 @@
 # Learnin
-![headshot](Salesduck_Daffy.png)
+![headshot](Solid_2_295.jpg)
 First of all i am trying to know how to use git in full fledgely.
 I am an IT Analyst with passion for development in web and mobile,
 I have been in this field for 5 years and looking to start my own gig in Artficial intelligence
